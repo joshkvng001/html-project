@@ -1,0 +1,242 @@
+ <!--the 20 input field-->
+  <input type="text"/>
+  <input type="email"/>
+  <input type="password"/>
+  <input type="number"/>
+  <input type="tell"/>
+  <input type="url"/>
+  <input type="search"/>
+  <input type="date"/>
+  <input type="time"/>
+  <input type="datetime-local"/>
+  <input type="month"/>
+  <input type="month"/>
+  <input type="week"/>
+  <input type="color"/>
+  <input type="range"/>
+  <input type="file"/>
+  <input type="hidden"/>
+  <input type="checkbox"/>
+  <input type="radio"/>
+  <input type="reset"/>
+  <input type="submit"/>
+  <!DOCTYPE html>
+
+
+
+
+  
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+ <!-- Semantic HTML5 Elements -->
+
+  <!-- Layout Elements -->
+  <header>
+    <nav>
+      <img src="./WhatsApp Image 2025-09-03 at 07.47.17_84311a1a.jpg" alt="logo" style="width: 60px; height: 60px;"/>
+      <nav>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+    </nav>
+    </nav>
+  </header>
+
+  <main>
+    <article>
+      <header>
+        <h1>streambet</h1>
+      </header>
+
+      
+
+      <section>
+        <h2>grow your Spotify streams: organic MUSIC promotion</h2>
+        <h3>With Streambeet you can grow an organic audience online.
+           “Why should I invest in organic music promotion?”
+            With over 120,000 new tracks being released daily on streaming platforms,
+             it can be really difficult to cut through the clutter without having
+              a huge budget behind you.At Streambeet, we get your music heard by
+               real music listeners for a very cost-efficient fee,
+              using organic promotion methods to grow your Spotify streams, Spotify followers, 
+              as well as Spotify monthly listeners</h3>
+      </section>
+      <section>
+        <h2>ORGANIC SPOTIFY STREAM GROWTH CAMPAIGNS</h2>
+       <li><a href="#">Continuous Campaign until the artist gains 1000+ monthly LISTENERS - #1000</a></li>
+       <li><a href="#">Continuous Campaign until the artist gains 10,000+ monthly LISTENERS - 5000</a></li>
+       <li><a href="#">Continuous Campaign until the artist gains 100,000+ monthly LISTENERS - #10,000</a></li>
+       <li><a href="#">Continuous Campaign until the artist gains 1,000,000+ monthly LISTENERS - #100,000</a></li>
+      </section>
+
+      <!-- file upload -->
+           <label for="file">ADD YOUR SPOTIFY PROFILE</label>
+           <input type="file" name="file" accept=".pdf, .doc, .docx">
+        <br>
+
+
+     
+
+
+    
+    </article>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 your Website. All right reserved.</p>
+  </footer>
+
+  
+
+    Contact: <a href="mailto:email@exmaple.com">email@exmaple.com</a>
+  </address>
+
+   <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!-- Semantic HTML5 Elements -->
+
+  <!-- Layout Elements -->
+  <header>
+    <nav>
+      <img src="./WhatsApp Image 2025-09-03 at 07.47.17_84311a1a.jpg" alt="logo" style="width: 60px; height: 60px;"/>
+      <nav>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+    </nav>
+    </nav>
+  </header>
+
+  <main>
+    <article>
+      <header>
+        <h1>Streambeet</h1>
+      </header>
+
+      <section>
+        <h2>grow your Spotify streams: organic MUSIC promotion</h2>
+        <h3>With Streambeet you can grow an organic audience online.
+           “Why should I invest in organic music promotion?”
+            With over 120,000 new tracks being released daily on streaming platforms,
+             it can be really difficult to cut through the clutter without having
+              a huge budget behind you.At Streambeet, we get your music heard by
+               real music listeners for a very cost-efficient fee,
+              using organic promotion methods to grow your Spotify streams, Spotify followers, 
+              as well as Spotify monthly listeners</h3>
+      </section>
+       <h2>ORGANIC SPOTIFY STREAM GROWTH CAMPAIGNS</h2>
+       <li><a href="#">Continuous Campaign until the artist gains 1000+ monthly LISTENERS - #1000</a></li>
+       <li><a href="#">Continuous Campaign until the artist gains 10,000+ monthly LISTENERS - 5000</a></li>
+       <li><a href="#">Continuous Campaign until the artist gains 100,000+ monthly LISTENERS - #10,000</a></li>
+       <li><a href="#">Continuous Campaign until the artist gains 1,000,000+ monthly LISTENERS - #100,000</a></li>
+      </section>
+
+      <aside>
+        <h3>Related Links</h3>
+        <ul>
+          <li><a href="#">review</a></li>
+          <li><a href="#">About</a></li>
+        </ul>
+      </aside>
+    </article>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 your Website. All right reserved.</p>
+    
+    
+    Contact: <a href="mailto:email@exmaple.com">email@exmaple.com</a>
+  </address>
+  </footer>
+
+
+<!--meta tags and head elements-->
+  <head>
+    <!--character encoding-->
+    <meta charset="UTF-8"/>
+
+    <!--view port for responsive desgin-->
+    <mata name="viewport" content="width=device-width,initial-scale=1.0"/>
+
+    <!--page description-->
+    <meta name="description" content="page description for search engine"/>
+
+      <!-- Keywords -->
+      <meta name="keywords" content="html, web development, tutorial" />
+
+      <!-- Author -->
+      <meta name="author" content="Your Name" />
+
+      <!-- Refresh page-->
+      <meta http-equiv="refresh" content="30" />
+
+      <!-- CSS link -->
+      <link rel="stylesheet" href="styles.css" />
+
+      <!-- favicon -->
+      <link rel="icon" type="image/x-icon" href="favicon.ico" />
+
+      <!-- External fonts -->
+      <link rel="preconnect" href="https://fonts.googleapis.com" />
+
+      <!-- JavaScript -->
+      <script src="script.js"></script>
+
+      <body>
+  <h2>Business Letter sample</h2>
+  <address>
+    Company, Inc.<br>
+123 Alphabet Drive
+Los Angeles,<br> California 90002
+15 October 2016
+  </address>
+
+  <address>
+    Mr. John Doe
+Customer Service <br> Representative
+Widgets Galore, Inc.<br>
+987 Widget Street
+Miami,<br> Florida 33111
+  </address>
+
+  <p>dear joshua,</p>
+  <h2>Business Letter Format</h2>
+  <p>
+    I am writing you concerning a recent purchase of widgets. Approximately two weeks ago, 
+    on October 1, 1 ordered a total of 50 widgets for Company,
+     Inc. via the Widgets Galore client webpage. I received an email notification 
+     two days later confirming the receipt of payment and
+      the shipment of the widgets.
+According to your website, shipments should reach their destination within 3-5 business days 
+of being sent, but I have yet to receive the widgets. Do you have any information on what 
+may have happened to delay the shipment or where the shipment is currently?
+  </p>
+  <p>
+    I have worked with Widgets Galore, Inc. in the past and have the greatest confidence 
+    in your products and customer service. We need the shipment of widgets soon, however, 
+    and I hoped you might be able to provide me with an idea of when I can expect them. 
+    Thank you in advance for any help you might be able to offer.
+  </p>
+  <p>
+    Sincerely,
+Sam Brown</p>
+Vice President of Company, Inc.<br>
+555-555-5555
+s.brown@companyinc.com 
+  </p>
+  </head>
+
+</body>
+</html>
