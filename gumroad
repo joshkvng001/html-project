@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+     <header>
+    <nav>
+      <!-- Logo -->
+      <span>GUMROAD</span>
+      
+      
+      
+      <!-- Navigation links -->
+      <a href="#">Discover</a>
+      <a href="#">Blog</a>
+      <a href="#">Pricing</a>
+      <a href="#">Features</a>
+      <a href="#">About</a>
+      
+      <!-- Login and Selling -->
+      <a href="#">Log in</a>
+      <a href="#">Start selling</a>
+    </nav>
+  </header>
+
+ <h1>Go from 0 to $1</h1>
+ <h2>Anyone can earn their first dollar online. Just start with what you know,<br>
+     see what sticks, and get paid. It's that easy.</h2>
+
+<button>Start selling</button>
+
+  <form>
+    <input type="text" placeholder="Search marketplace ..." />
+    <button type="submit">➡</button>
+    
+     <hi>You know all those great ideas you have?</hi>
+     <h1>We want you to try them, lots of them,<br>
+         and find out what works.</h1>
+     <h1>You don't have to be a tech expert or even understand 
+        how to start a<br> business. You just gotta take what you know and sell it.</h1>
+        <p>
+     <button>Find Out Now</button>
+
+     <h1>$1,841,163</h1>
+     <h3>The amount of income earned by<br> Gumroad digital entrepreneurs last week.</h3>
+     <h1>Unlimited possibilities</h1>
+     <h3>Discover the best-selling products and creators on Gumroad</h3>
+     <h1>Share your work.<br>
+      Someone out there needs it.</h1>
+      <button>Start selling</button>
+
+      <h1>Subscribe to get tips and<br> tactics to grow the way you<br> want.</h1>
+
+       <input type="email" placeholder="email address ..." />
+       <button type="submit">➡</button>
+      <footer>
+    <div>
+      <ul>
+        <li><a href="#">Discover</a></li>
+        <li><a href="#">Blog</a></li>
+        <li><a href="#">Pricing</a></li>
+        <li><a href="#">Features</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Small Bets</a></li>
+      </ul>
+    </div>
+    
+    <div>
+      <ul>
+        <li><a href="#">Help</a></li>
+        <li><a href="#">Board meetings</a></li>
+        <li><a href="#">Terms of Service</a></li>
+        <li><a href="#">Privacy Policy</a></li>
+      </ul>
+    </div>
+  </footer>
+  
+    <form/>
+
+
+</body>
+</html>
